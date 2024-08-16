@@ -51,6 +51,7 @@ In the style of the anime **Bleach** and a 2D platformer.
 - Creation of game console commands
 - Lots of streaming
 - Creating animations in **Adobe Photoshop**
+- Save game data
 
 <b>UA:</b>
 - Створення 2D гри за допомогою бібліотеки [**libGDX**](https://libgdx.com)
@@ -60,6 +61,7 @@ In the style of the anime **Bleach** and a 2D platformer.
 - Створення консольних команд гри
 - Багато потоковість
 - Створення анімацій в **Adobe Photoshop**
+- Збереження даних гри
 
 #
 ## License
