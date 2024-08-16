@@ -4,13 +4,13 @@
 ## Description
 <b>EN:</b>
 
-A custom made 2D arcade game. Developed using the framework [**libGDX**](https://libgdx.com)
+A custom made 2D arcade game. Developed using the framework [**libGDX**](https://libgdx.com).
 
 In the style of the anime **Bleach** and a 2D platformer.
 
 <b>UA:</b>
 
-Аркадна 2D гра, створена на замовлення. Розроблена за допомогою фреймворку [**libGDX**](https://libgdx.com)
+Аркадна 2D гра, створена на замовлення. Розроблена за допомогою фреймворку [**libGDX**](https://libgdx.com).
 
 В стилі аніме **Bleach** та 2D платформера.
 
